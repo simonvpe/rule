@@ -1,6 +1,6 @@
 [submodule "googletest"]
-	path = googletest
+	path = test/googletest
 	url = https://github.com/google/googletest
-[submodule "googlemock"]
-	path = googlemock
-	url = https://github.com/google/googlemock
+[submodule "GSL"]
+	path = GSL
+	url = https://github.com/microsoft/GSL
